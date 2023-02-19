@@ -18,7 +18,7 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 # Official Resources
 
-(ChatGPT app)[https://chat.openai.com/]
+[ChatGPT app](https://chat.openai.com/)
 ChatGPT overview
 ChatGTP Discord
 OpenAI API Documentation
