@@ -66,3 +66,7 @@ To get started, you can do the following:
 3. [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) 2: WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
 4. [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework low code, extremely easy to configure by yaml
 5. [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
+
+## Rust
+
+1. [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
