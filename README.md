@@ -29,6 +29,8 @@ To get started, you can do the following:
 
 # Developer Libraries, SDKs, and APIs
 
+## Python
+
 1. [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT’s API by OpenAI. Uses reverse engineered official API
 2.	[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 3. [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
@@ -41,13 +43,13 @@ To get started, you can do the following:
 10. [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 11.	[docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within search Google Docs as an Editor Add-on
 12.	[chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
-13. [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For Telegram
-14.  [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
-15. [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
-16.	 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
-17.  [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
+13. :cn: [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For Telegram
+14. :cn: [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
+15. :cn: [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
+16.	 :cn: [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
+17. :cn:[ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
 
-# JavaScript
+## JavaScript
 
 1. [chatgpt-mac](): ChatGPT for Mac, living in your menubar.
 2. [chatgpt-advanced](): A browser extension that augments your ChatGPT prompts with web results.
@@ -57,7 +59,7 @@ To get started, you can do the following:
 6. :cn: [wechat-bot](); a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
 
 
-# Golang
+## Golang
 
 1. [aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
 2. [openaigo](https://github.com/otiai10/openaigo): OpenAI (ChatGPT) API Client for Go
