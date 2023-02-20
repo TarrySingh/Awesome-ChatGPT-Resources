@@ -70,3 +70,9 @@ To get started, you can do the following:
 ## Rust
 
 1. [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+
+## Typescript
+
+1. [chatgpt-raycast](): ChatGPT raycast extension
+2. [chatgpt-twitter-bot](): Twitter bot powered by OpenAI’s ChatGPT.
+3. [tweetGPT](): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
