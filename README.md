@@ -37,21 +37,30 @@ To get started, you can do the following:
 6.	[chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI’s ChatGPT
 7. [TextRL](https://github.com/voidful/TextRL): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
 8.	[stackexplain](https://github.com/shobrook/stackexplain): Explain your error message with ChatGPT
-9.	[gtp3-wordpress-post-generator](): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
-10. [emailGPT](): a quick and easy interface to generate emails with ChatGPT
-11.	[docGPT](): ChatGPT directly within search Google Docs as an Editor Add-on
-12.	[chatgpt-conversation](): Have a conversation with ChatGPT using your voice, and have it talk back.
-13. [Openaibot](): OpenAI Chat Bot For Telegram
-14.  [chatgpt-mirai-qq-bot](): OpenAI ChatGPT for Mirai QQ Bot
-15. [QChatGPT](): QQ robot bot developed based on OpenAI ChatGPT
-16.	 [nonebot-plugin-chatgpt](): Smart Conversation Chat plugin for NoneBot2.
-17.  [ChineseAiDungeonChatGPT](): AI dungeon using ChatGPT as the storytelling model
+9.	[gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+10. [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
+11.	[docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within search Google Docs as an Editor Add-on
+12.	[chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
+13. [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For Telegram
+14.  [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
+15. [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
+16.	 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
+17.  [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
 
 # JavaScript
 
 1. [chatgpt-mac](): ChatGPT for Mac, living in your menubar.
 2. [chatgpt-advanced](): A browser extension that augments your ChatGPT prompts with web results.
-3. [summarize.site]: Summarize web pages using OpenAI ChatGPT
-4. ChatGPT-ProBot: A GPTChat based GitHub robot. dialogue/CR/etc…
-5. YouTube_Summary_with_ChatGPT: YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
-:cn: wechat-bot: a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
+3. [summarize.site](): Summarize web pages using OpenAI ChatGPT
+4. [ChatGPT-ProBot()): A GPTChat based GitHub robot. dialogue/CR/etc…
+5. [YouTube_Summary_with_ChatGPT](): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+6. :cn: [wechat-bot](); a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
+
+
+# Golang
+
+1. [aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
+2. [openaigo](https://github.com/otiai10/openaigo): OpenAI (ChatGPT) API Client for Go
+3. [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) 2: WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+4. [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework low code, extremely easy to configure by yaml
+5. [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
