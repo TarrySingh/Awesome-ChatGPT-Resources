@@ -73,6 +73,6 @@ To get started, you can do the following:
 
 ## Typescript
 
-1. [chatgpt-raycast](): ChatGPT raycast extension
-2. [chatgpt-twitter-bot](): Twitter bot powered by OpenAI’s ChatGPT.
-3. [tweetGPT](): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+1. [chatgpt-raycast]https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
+2. [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI’s ChatGPT.
+3. [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
