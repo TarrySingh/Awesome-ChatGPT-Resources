@@ -51,12 +51,12 @@ To get started, you can do the following:
 
 ## JavaScript
 
-1. [chatgpt-mac](): ChatGPT for Mac, living in your menubar.
-2. [chatgpt-advanced](): A browser extension that augments your ChatGPT prompts with web results.
-3. [summarize.site](): Summarize web pages using OpenAI ChatGPT
-4. [ChatGPT-ProBot()): A GPTChat based GitHub robot. dialogue/CR/etc…
-5. [YouTube_Summary_with_ChatGPT](): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
-6. :cn: [wechat-bot](); a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
+1. [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
+2. [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): A browser extension that augments your ChatGPT prompts with web results.
+3. [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
+4. [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot): A GPTChat based GitHub robot. dialogue/CR/etc…
+5. [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+6. :cn: [wechat-bot](https://github.com/wangrongding/wechat-bot); a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
 
 
 ## Golang
