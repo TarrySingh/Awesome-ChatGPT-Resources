@@ -10,7 +10,10 @@ The [ChatGPT](https://chat.openai.com/chat) model is a large language model trai
 
 In this repository, you will find a variety of tools and solutions that can be used with ChatGPT.
 
-To get started, simply clone this repository if you like. Join me in updating this as more folks add more cool tools powered by GPT. and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+To get started, you can do the following:
+1. **Participate**: Join me in updating this as more folks add more cool tools powered by GPT.
+2. **Clone it**: Simply clone this repository if you like and follow it whle we keep this updated.
+3. **And, Star it ❤️** : We would appreciate if you can show your love
 
 
 ---
@@ -43,3 +46,12 @@ To get started, simply clone this repository if you like. Join me in updating th
 15. [QChatGPT](): QQ robot bot developed based on OpenAI ChatGPT
 16.	 [nonebot-plugin-chatgpt](): Smart Conversation Chat plugin for NoneBot2.
 17.  [ChineseAiDungeonChatGPT](): AI dungeon using ChatGPT as the storytelling model
+
+# JavaScript
+
+1. [chatgpt-mac](): ChatGPT for Mac, living in your menubar.
+2. [chatgpt-advanced](): A browser extension that augments your ChatGPT prompts with web results.
+3. [summarize.site]: Summarize web pages using OpenAI ChatGPT
+4. ChatGPT-ProBot: A GPTChat based GitHub robot. dialogue/CR/etc…
+5. YouTube_Summary_with_ChatGPT: YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+:cn: wechat-bot: a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
