@@ -30,10 +30,10 @@ To get started, simply clone this repository if you like. Join me in updating th
 2.	[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 3. [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
 4.	[chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper): API for interacting with ChatGPT using Python and from Shell.
-5. [chatGPT-discord-bot](): Integrate ChatGPT into your own discord bot
-6.	[chatgpt-python](): Unofficial Python SDK for OpenAI’s ChatGPT
-7. [TextRL](): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
-8.	[stackexplain](): Explain your error message with ChatGPT
+5. [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
+6.	[chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI’s ChatGPT
+7. [TextRL](https://github.com/voidful/TextRL): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
+8.	[stackexplain](https://github.com/shobrook/stackexplain): Explain your error message with ChatGPT
 9.	[gtp3-wordpress-post-generator](): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 10. [emailGPT](): a quick and easy interface to generate emails with ChatGPT
 11.	[docGPT](): ChatGPT directly within search Google Docs as an Editor Add-on
