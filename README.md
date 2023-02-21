@@ -95,7 +95,7 @@ ChatGPT response alongside search Google Search results.
 5. [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)  - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 6. [ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant)  - A powerful extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
 7. [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf)  - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
-8. [ChatGPT_Extension]()  - A really simple Chrome Extension (manifest v3) that you can access OpenAI’s ChatGPT from anywhere on the web.
+8. [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension)  - A really simple Chrome Extension (manifest v3) that you can access OpenAI’s ChatGPT from anywhere on the web.
 9. [chat-gpt-search-extension]()  - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
 10. [chat-gpt-assistant]()  - A browser extension to integrate ChatGPT everywhere.
 11. [chatgpt-extension]()  - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
