@@ -12,7 +12,7 @@ In this repository, you will find a variety of tools and solutions that can be u
 To get started, you can do the following:
 1. **Participate**: Join me in updating this as more folks add more cool tools powered by GPT.
 2. **Clone it**: Simply clone this repository if you like and follow it whle we keep this updated.
-3. **And, Star it ❤️** : We would appreciate if you can show your love
+3. **And, Star it 🌟 please** : We would appreciate if you can show your love ❤️ 🙂
 
 
 ---
@@ -81,3 +81,40 @@ To get started, you can do the following:
 Kotlin
 1. [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI’s ChatGPT on Android with Stream Chat SDK for Compose.
 
+## Swift
+
+1. [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
+
+
+# Browser Extensions
+
+1. [chatgpt-google-extension]() - A browser extension that enhance search engines with ChatGPT.
+2. [chat-gpt-google-extension]()  - A browser extension to display ChatGPT response alongside search Google Search results.
+3. [ChatGPT-Google]()  - Chrome Extension that Integrates ChatGPT (Unofficial) into search Google Search.
+4. [chatgpt-advanced]()  - A browser extension that augments your ChatGPT prompts with web results.
+5. [chatgpt-chrome-extension]()  - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
+6. [ChatGPT-Assistant]()  - A powerful extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
+7. ChatGPT-pdf]()  - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
+8. ChatGPT_Extension]()  - A really simple Chrome Extension (manifest v3) that you can access OpenAI’s ChatGPT from anywhere on the web.
+9. chat-gpt-search-extension]()  - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
+chat-gpt-assistant]()  - A browser extension to integrate ChatGPT everywhere.
+chatgpt-extension]()  - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
+chat-gpt-soliloquy]()  - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
+ChatGPT for Search Engine]()  - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
+assistant-chat-gpt]()  - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
+tweetGPT]()  - A chrome extension that generates tweets and replies using chatGPT.
+YouTube_Summary_with_ChatGPT]()  - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+gpt-best-chrome]()  - Chrome extension for saving ChatGPT threads using gpt.best.
+ChatGPT-API-agent]()  - ChatGPT API Agent (Firefox version).
+hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
+GPT-Cookies]()  - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
+ChatGPT History]()  - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
+chat-gpt-jupyter-extension]()  - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
+Chat-GPT-for-Gmail]()  - A browser extension to complete your email with the help of ChatGPT.
+ChatGPT-SelfChat]()  - Stupid browser extension to make two instances of GPT chat together.
+chatgpt-to-notion]()  - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
+chatgpt-soliloquy]()  - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
+chatgpt-review-rebuttal-extension]()  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
+bing-chat-for-all-browsers]()  - Bing ChatGPT on Chrome and Firefox.
+chatgpt-google-summary-extension]()  - A browser extension to display ChatGPT Summary search results alongside search Google results.
+chatgpt-review-rebuttal-extension]()  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
