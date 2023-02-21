@@ -1,5 +1,6 @@
 <p align="center"><h1>🧠 Awesome-ChatGPT | Massive Resources &amp; Collection On The Internet</h1></p>
 
+[![name](./Chatgpt-resources.png)]
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -157,15 +158,15 @@ hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
 ## NeoVim
 [ChatGPT.nvim](): Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 ## WhatsApp
-- [whatsapp-gpt](): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
-- [chatgpt-api](): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
+1. [whatsapp-gpt](): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+2. [chatgpt-api](): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
 ## Telegram
 [chatgpt-telegram-bot-serverless](): ChatGPT Telegram Bot running in AWS Lambda
 ## Slack
 [ChatGPTSlackBot](): A Slack bot that integrates with OpenAI’s ChatGPT to provide answers, written in Python
 ## Discord
-- [chatgpt-discord](): Run your own GPTChat Discord bot, with a single command!
-- [chatGPT-discord-bot](): Integrate ChatGPT into your own discord bot
+1. [chatgpt-discord](): Run your own GPTChat Discord bot, with a single command!
+2. [chatGPT-discord-bot](): Integrate ChatGPT into your own discord bot
 ## VSCode
 [chatgpt-vscode](): A VSCode extension that allows you to use ChatGPT
 search 
