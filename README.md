@@ -117,3 +117,22 @@ hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
 25. [chatgpt-review-rebuttal-extension]()  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 26. [bing-chat-for-all-browsers]()  - Bing ChatGPT on Chrome and Firefox.
 27. [chatgpt-google-summary-extension]()  - A browser extension to display ChatGPT Summary search results alongside search Google results.
+
+## Chrome
+
+1. [ChatGPT_Extension](): ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI’s ChatGPT from anywhere on the web.
+2. [chat-gpt-google-extension](): A browser extension to display ChatGPT response alongside search engine results.
+3. [ChatGPT-pdf](): A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
+4. [assistant-chat-gpt](): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+5. [sharegpt](): Easily share permanent links to ChatGPT conversations with your friends
+6. [chatgpt-advanced](): A browser extension that augments your ChatGPT prompts with web results.
+7. [tweetGPT](): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+8. [YouTube_Summary_with_ChatGPT](): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+
+## Firefox
+
+1. [chat-gpt-google-extension](): A browser extension to display ChatGPT response alongside search engine results.
+
+
+## Tools
+
