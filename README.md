@@ -150,3 +150,37 @@ hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
 12. [ScribeAI]() - ChatGPT extension for VSCode.
 
 
+# Integrations
+
+## Terminal
+[ai-cli](): Get answers for CLI commands from GPT3 right from your terminal
+## NeoVim
+[ChatGPT.nvim](): Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+## WhatsApp
+- [whatsapp-gpt](): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+- [chatgpt-api](): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
+## Telegram
+[chatgpt-telegram-bot-serverless](): ChatGPT Telegram Bot running in AWS Lambda
+## Slack
+[ChatGPTSlackBot](): A Slack bot that integrates with OpenAI’s ChatGPT to provide answers, written in Python
+## Discord
+- [chatgpt-discord](): Run your own GPTChat Discord bot, with a single command!
+- [chatGPT-discord-bot](): Integrate ChatGPT into your own discord bot
+## VSCode
+[chatgpt-vscode](): A VSCode extension that allows you to use ChatGPT
+search 
+
+## Google Docs
+[docGPT](): ChatGPT directly within search Google Docs as an Editor Add-on
+## JetBrains IDE
+[intellij-chatgpt](): A ChatGPT plugin for IntelliJ Platform-Based IDEs
+## Wordpress
+- [gtp3-wordpress-post-generator](): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+## Raycast
+[chatgpt-raycast](): ChatGPT raycast extension
+## WeChat
+1. :cn: [wechat-bot](): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
+2. :cn: [wechatgpt](): wechat chatgpt bot
+## Prompts
+[awesome-chatgpt-prompts](): A curated list of ChatGPT prompts
+showgpt.co 8: Curated ChatGPT prompts
