@@ -97,14 +97,14 @@ ChatGPT response alongside search Google Search results.
 6. [ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant)  - A powerful extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
 7. [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf)  - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 8. [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension)  - A really simple Chrome Extension (manifest v3) that you can access OpenAI’s ChatGPT from anywhere on the web.
-9. [chat-gpt-search-extension]()  - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
-10. [chat-gpt-assistant]()  - A browser extension to integrate ChatGPT everywhere.
-11. [chatgpt-extension]()  - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
-12. [chat-gpt-soliloquy]()  - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
-13. [ChatGPT for Search Engine]()  - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
-14. [assistant-chat-gpt]()  - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
-15. [tweetGPT]()  - A chrome extension that generates tweets and replies using chatGPT.
-16. [YouTube_Summary_with_ChatGPT]()  - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
+9. [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension)  - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
+10. [chat-gpt-assistant](https://github.com/msfrisbie/chat-gpt-assistant)  - A browser extension to integrate ChatGPT everywhere.
+11. [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension)  - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
+12. [chat-gpt-soliloquy](https://github.com/yetone/chat-gpt-soliloquy)  - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
+13. [ChatGPT for Search Engine](https://github.com/josStorer/chatGPT-search-engine-extension)  - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
+14. [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt)  - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
+15. [tweetGPT](https://github.com/yaroslav-n/tweetGPT)  - A chrome extension that generates tweets and replies using chatGPT.
+16. [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT)  - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI’s ChatGPT AI technology.
 17. [gpt-best-chrome]()  - Chrome extension for saving ChatGPT threads using gpt.best.
 18. [ChatGPT-API-agent]()  - ChatGPT API Agent (Firefox version).
 hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
