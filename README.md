@@ -12,7 +12,7 @@ In this repository, you will find a variety of tools and solutions that can be u
 
 To get started, you can do the following:
 1. **Participate**: Join me in updating this as more folks add more cool tools powered by GPT.
-2. **Clone it**: Simply clone this repository if you like and follow it whle we keep this updated.
+2. **Clone or Fork it**: Simply clone or fork this repository if you like and follow it while we keep this updated for you.
 3. **And, Star it 🌟 please** : We would appreciate if you can show your love ❤️ 🙂
 
 
