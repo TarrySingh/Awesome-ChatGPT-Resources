@@ -134,5 +134,19 @@ hey-addy-chatgpt]()  - Email assistant powered by ChatGPT.
 1. [chat-gpt-google-extension](): A browser extension to display ChatGPT response alongside search engine results.
 
 
-## Tools
+## Additional Tools Extensions
+
+1. [chatgpt-vscode]() - A VSCode extension that allows you to use ChatGPT.
+2. [chatgpt.nvim]() - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
+3. [chatgpt-raycast]() - Unofficial ChatGPT raycast extension.
+4. [docGPT]()- ChatGPT directly within search Google Docs as an Editor Add-on.
+5. [vscode-chatgpt]() - A search Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
+6. [chatgpt-vscode-plugin]() - A VS code plugin for ChatGPT built by ChatGPT.
+7. [ChatGPT.nvim]() - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+8. [vim-chatgpt]()- Vim plugin for ChatGPT
+9. [MenuChatGPT - ChatGPT as a status bar item for macOS
+10. [ExplainThisCode]() - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
+11. [ChatGPT-Gnome-Desktop-Extension]() - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+12. [ScribeAI]() - ChatGPT extension for VSCode.
+
 
