@@ -115,7 +115,7 @@ ChatGPT response alongside search Google Search results.
 23. [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat)  - Stupid browser extension to make two instances of GPT chat together.
 24. [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion)  - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 
-25. [chatgpt-review-rebuttal-extension]()  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
+25. [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension)  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 26. [bing-chat-for-all-browsers]()  - Bing ChatGPT on Chrome and Firefox.
 27. [chatgpt-google-summary-extension]()  - A browser extension to display ChatGPT Summary search results alongside search Google results.
 
