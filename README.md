@@ -132,7 +132,7 @@ ChatGPT response alongside search Google Search results.
 
 ## Firefox
 
-1. [chat-gpt-google-extension](): A browser extension to display ChatGPT response alongside search engine results.
+1. [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
 
 
 ## Additional Tools Extensions
