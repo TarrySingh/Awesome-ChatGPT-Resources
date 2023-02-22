@@ -218,3 +218,9 @@ search
 18. [ChatGPTSwift]() - Access ChatGPT API using Swift.
 19. [chatapi-single]() - Simple and powerful ChatGPT-API-Server.
 20. [EdgeGPT]() - Reverse engineered API of search Microsoft’s Bing Chat.
+
+## API tools
+1. [Unoffical API in Python]()
+2. [TLS-based API (Python)]()
+3. [Unofficial API in JS/TS]()
+4. [Unofficial API in Dart]()
