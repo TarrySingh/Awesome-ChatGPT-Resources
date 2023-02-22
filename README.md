@@ -117,7 +117,7 @@ ChatGPT response alongside search Google Search results.
 
 25. [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension)  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 26. [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)  - Bing ChatGPT on Chrome and Firefox.
-27. [chatgpt-google-summary-extension]()  - A browser extension to display ChatGPT Summary search results alongside search Google results.
+27. [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension)  - A browser extension to display ChatGPT Summary search results alongside search Google results.
 
 ## Chrome
 
