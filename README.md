@@ -137,18 +137,18 @@ ChatGPT response alongside search Google Search results.
 
 ## Additional Tools Extensions
 
-1. [chatgpt-vscode]() - A VSCode extension that allows you to use ChatGPT.
-2. [chatgpt.nvim]() - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
-3. [chatgpt-raycast]() - Unofficial ChatGPT raycast extension.
-4. [docGPT]()- ChatGPT directly within search Google Docs as an Editor Add-on.
-5. [vscode-chatgpt]() - A search Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
-6. [chatgpt-vscode-plugin]() - A VS code plugin for ChatGPT built by ChatGPT.
-7. [ChatGPT.nvim]() - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
-8. [vim-chatgpt]()- Vim plugin for ChatGPT
-9. [MenuChatGPT - ChatGPT as a status bar item for macOS
-10. [ExplainThisCode]() - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
-11. [ChatGPT-Gnome-Desktop-Extension]() - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
-12. [ScribeAI]() - ChatGPT extension for VSCode.
+1. [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
+2. [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
+3. [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
+4. [docGPT](https://github.com/cesarhuret/docGPT)- ChatGPT directly within search Google Docs as an Editor Add-on.
+5. [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A search Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
+6. [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
+7. [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+8. [vim-chatgpt]https://github.com/mattn/vim-chatgpt)- Vim plugin for ChatGPT
+9. [MenuChatGPT](https://github.com/ericlewis/MenuChatGPT) - ChatGPT as a status bar item for macOS
+10. [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
+11. [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+12. [ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 
 
 # Integrations
