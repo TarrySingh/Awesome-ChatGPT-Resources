@@ -185,3 +185,36 @@ search
 ## Prompts
 1. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 2. [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
+
+# AI Assistants
+1. [emailGPT](): a quick and easy interface to generate emails with ChatGPT
+2. [summarize.site](): Summarize web pages using OpenAI ChatGPT
+3. [chatgpt-conversation](): Have a conversation with ChatGPT using your voice, and have it talk back.
+4. [assistant-chat-gpt](): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+
+# Desktop Apps
+
+1. [chatgpt-desktop](): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+2. [chatgpt-mac](): ChatGPT for Mac, living in your menubar.
+# API
+1. [ChatGPT]() - Lightweight package for interacting with ChatGPT’s API by OpenAI. Uses reverse engineered official API.
+2. [chatgpt-api]() - Node.js client for the unofficial ChatGPT API.
+3. [PyChatGPT]() - TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+4. [commitgpt]() - Automatically generate commit messages using ChatGPT.
+5. [chatgpt-wrapper]() - API for interacting with ChatGPT using Python and from Shell.
+6. [gptchatteR]() - An experimental and unofficial wrapper for interacting with ChatGPT in R.
+7. [OpenAISwift]() - A wrapper library around the ChatGPT and OpenAI HTTP API
+8. [chatgpt-api]() - ChatGPT HTTP API Client and CLI
+9. [chatgpt-java]() - Lightweight package for interacting with ChatGPT’s API by OpenAI. Uses reverse engineered official API.
+10. [chatgpt-api]() - An unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
+11. [openaigo]() - OpenAI (ChatGPT) API Client for Go.
+12. [flutter_chatgpt_api]() - Use ChatGPT from Flutter / Dart.
+13. [ChatGPT-API-server]() - API server for ChatGPT.
+14. [easyChatGPT]() - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
+15. [chatgpt-io]() - ChatGPT Client API, Blazing Fast, without using browser.
+16. [node-chatgpt-api]() - ChatGPT API Server.
+17. [whetstone.chatgpt]() - A simple light-weight library that wraps ChatGPT API completions. Additions to support images and other beta features are in progress.
+17. [ChatGPT-API-server]() - API server for ChatGPT.
+18. [ChatGPTSwift]() - Access ChatGPT API using Swift.
+19. [chatapi-single]() - Simple and powerful ChatGPT-API-Server.
+20. [EdgeGPT]() - Reverse engineered API of search Microsoft’s Bing Chat.
