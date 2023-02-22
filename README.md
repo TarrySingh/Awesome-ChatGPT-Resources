@@ -154,21 +154,21 @@ ChatGPT response alongside search Google Search results.
 # Integrations
 
 ## Terminal
-[ai-cli](): Get answers for CLI commands from GPT3 right from your terminal
+[ai-cli](https://github.com/abhagsain/ai-cli): Get answers for CLI commands from GPT3 right from your terminal
 ## NeoVim
-[ChatGPT.nvim](): Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim): Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 ## WhatsApp
-1. [whatsapp-gpt](): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
-2. [chatgpt-api](): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
+1. [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
+2. [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross’s WhatsApp GPT
 ## Telegram
-[chatgpt-telegram-bot-serverless](): ChatGPT Telegram Bot running in AWS Lambda
+[chatgpt-telegram-bot-serverless](https://github.com/franalgaba/): ChatGPT Telegram Bot running in AWS Lambda
 ## Slack
-[ChatGPTSlackBot](): A Slack bot that integrates with OpenAI’s ChatGPT to provide answers, written in Python
+[ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot): A Slack bot that integrates with OpenAI’s ChatGPT to provide answers, written in Python
 ## Discord
-1. [chatgpt-discord](): Run your own GPTChat Discord bot, with a single command!
-2. [chatGPT-discord-bot](): Integrate ChatGPT into your own discord bot
+1. [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord): Run your own GPTChat Discord bot, with a single command!
+2. [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
 ## VSCode
-[chatgpt-vscode](): A VSCode extension that allows you to use ChatGPT
+[chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode): A VSCode extension that allows you to use ChatGPT
 search 
 
 ## Google Docs
