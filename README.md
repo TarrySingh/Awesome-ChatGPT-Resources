@@ -172,16 +172,16 @@ ChatGPT response alongside search Google Search results.
 search 
 
 ## Google Docs
-[docGPT](): ChatGPT directly within search Google Docs as an Editor Add-on
+[docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within search Google Docs as an Editor Add-on
 ## JetBrains IDE
-[intellij-chatgpt](): A ChatGPT plugin for IntelliJ Platform-Based IDEs
+[intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for IntelliJ Platform-Based IDEs
 ## Wordpress
-- [gtp3-wordpress-post-generator](): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
+- [gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 ## Raycast
-[chatgpt-raycast](): ChatGPT raycast extension
+[chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 ## WeChat
-1. :cn: [wechat-bot](): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
-2. :cn: [wechatgpt](): wechat chatgpt bot
+1. :cn: [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc…
+2. :cn: [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 ## Prompts
-[awesome-chatgpt-prompts](): A curated list of ChatGPT prompts
-showgpt.co 8: Curated ChatGPT prompts
+1. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
+2. [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
