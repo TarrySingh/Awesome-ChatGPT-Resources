@@ -110,10 +110,10 @@ ChatGPT response alongside search Google Search results.
 19. [hey-addy-chatgpt](https://github.com/MichaelVandi/hey-addy-chatgpt)  - Email assistant powered by ChatGPT.
 19. [GPT-Cookies](https://github.com/itsbrex/GPT-Cookies)  - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 20. [ChatGPT History](https://github.com/benf2004/ChatGPT-History)  - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
-21. [chat-gpt-jupyter-extension]()  - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
-22. [Chat-GPT-for-Gmail]()  - A browser extension to complete your email with the help of ChatGPT.
-23. [ChatGPT-SelfChat]()  - Stupid browser extension to make two instances of GPT chat together.
-24. [chatgpt-to-notion]()  - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
+21. [chat-gpt-jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension)  - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
+22. [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail)  - A browser extension to complete your email with the help of ChatGPT.
+23. [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat)  - Stupid browser extension to make two instances of GPT chat together.
+24. [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion)  - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 
 25. [chatgpt-review-rebuttal-extension]()  - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 26. [bing-chat-for-all-browsers]()  - Bing ChatGPT on Chrome and Firefox.
