@@ -241,18 +241,9 @@ search
 6. [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - augment your prompts to ChatGPT with web search results
 
 
-1. Access ChatGPT from other platforms
-2. Serverless Telegram bot 3
-3. WhatsApp bot 21
-RayCast Extension (unofficial) 5
-VSCode extension 7 (demo)
-Go Telegram bot 5
-Twitter Bot 3 powered by ChatGPT
-Chrome extension 25
-Google docs 14
-Mac menubar app 11
-Multi-platform desktop app (Windows, Mac, Linux) 6 powered by ChatGPT & Tauri
-Windows, Mac, Linux desktop app 35
-Jetbrains IDEs plugin 6
-ChatGPT for Slack Bot 1
-ChatGPT for Discord Bot 1
+## CLI Tools
+
+1. [Voice-based chatGPT](https://github.com/platelminto/chatgpt-conversation)
+2. [Explain your runtime errors with ChatGPT](https://github.com/shobrook/stackexplain)
+3. [GPT3 WordPress post generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
+4. [Assistant CLI](https://github.com/diciaup/assistant-cli)
