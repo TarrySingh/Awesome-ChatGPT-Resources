@@ -224,3 +224,13 @@ search
 2. [TLS-based API (Python)]()
 3. [Unofficial API in JS/TS]()
 4. [Unofficial API in Dart]()
+
+
+## Chrome extensions
+
+1. [Chrome extension to access ChatGPT](https://github.com/kazuki-sf/ChatGPT_Extension) as a popup on any page
+2. [Extension to display ChatGPT response](https://github.com/wong2/chat-gpt-google-extension) alongside Google Search results
+3. [Extension to add share abilities]() to ChatGPT (PDF, PNG or a sharable link
+4. [Chrome extension to add input history](), copy, and counters to ChatGPT
+5. [ChassistantGPT]() - embeds ChatGPT as a hands-free voice assistant in the background
+6. [WebChatGPT]() - augment your prompts to ChatGPT with web search results
