@@ -225,6 +225,11 @@ search
 3. [Unofficial API in JS/TS]()
 4. [Unofficial API in Dart]()
 
+## Application
+
+1. [ChatARKit](https://github.com/trzy/ChatARKit): Using ChatGPT to Create AR Experiences with Natural Language 3
+2. [GPT3 Blog Post Generator](https://github.com/simplysabir/AI-Writing-Assistant)
+3. [Debugger](https://github.com/shobrook/adrenaline/) that fixes errors and explains them with GPT-3
 
 ## Chrome extensions
 
@@ -234,3 +239,20 @@ search
 4. [Chrome extension to add input history](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc), copy, and counters to ChatGPT
 5. [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) - embeds ChatGPT as a hands-free voice assistant in the background
 6. [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - augment your prompts to ChatGPT with web search results
+
+
+1. Access ChatGPT from other platforms
+2. Serverless Telegram bot 3
+3. WhatsApp bot 21
+RayCast Extension (unofficial) 5
+VSCode extension 7 (demo)
+Go Telegram bot 5
+Twitter Bot 3 powered by ChatGPT
+Chrome extension 25
+Google docs 14
+Mac menubar app 11
+Multi-platform desktop app (Windows, Mac, Linux) 6 powered by ChatGPT & Tauri
+Windows, Mac, Linux desktop app 35
+Jetbrains IDEs plugin 6
+ChatGPT for Slack Bot 1
+ChatGPT for Discord Bot 1
