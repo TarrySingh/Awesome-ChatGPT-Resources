@@ -233,4 +233,4 @@ search
 3. [Extension to add share abilities](https://github.com/liady/ChatGPT-pdf) to ChatGPT (PDF, PNG or a sharable link
 4. [Chrome extension to add input history](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc), copy, and counters to ChatGPT
 5. [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) - embeds ChatGPT as a hands-free voice assistant in the background
-6. [WebChatGPT]() - augment your prompts to ChatGPT with web search results
+6. [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - augment your prompts to ChatGPT with web search results
