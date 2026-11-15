@@ -186,6 +186,9 @@ search
 1. [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 2. [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
 
+## MCP Servers
+1. [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server and ChatGPT integration for searching 18,000+ verified independent live-music venues across the US and Canada.
+
 # AI Assistants
 1. [emailGPT](): a quick and easy interface to generate emails with ChatGPT
 2. [summarize.site](): Summarize web pages using OpenAI ChatGPT
